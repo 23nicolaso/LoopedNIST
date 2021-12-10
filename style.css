@@ -78,3 +78,13 @@ html,body
     padding-top:1em;
     font-weight: 300; 
 }
+
+.nnc-screen {
+    position: relative;
+    overflow: hidden;
+  }
+  
+  .nnc-comment {
+    position: absolute;
+    white-space: nowrap;
+  }
